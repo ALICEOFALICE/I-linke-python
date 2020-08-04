@@ -25,3 +25,4 @@ elif Currency_type in ["€"]:
     print("可兑换为", round(RMB, 3), "RMB")
 else:
     print("输入错误")
+ready = input("运行完毕，按任意键退出")

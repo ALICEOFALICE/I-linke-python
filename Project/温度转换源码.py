@@ -9,3 +9,4 @@ def ccc(wendu):                                     #本行定义了一个叫ccc
 
 wendu1 = input("请输入温度")                         #使用input函数把输入值赋予wendu1变量
 ccc(wendu1)                                         #调用ccc函数并设置输入值为wendu2
+#这代码抄的我一脸懵逼，这个文件暂时锁起来，不要去管
