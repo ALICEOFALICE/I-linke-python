@@ -19,3 +19,5 @@ elif ID in "4":
     print(sorted(List, reverse=True))  # 非永久性反向输出代码
     print("这时输出原始列表就发现列表其实并没有变化")
     print(List)
+else:
+    print("代码错误")
